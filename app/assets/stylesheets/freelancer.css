@@ -383,11 +383,11 @@ form .row:first-child .floating-label-form-group {
 }
 
 .intro-text {
-    margin-top: 35px;
+    margin-top: 32px;
 }
 
 .dowhat {
-    margin-top: 5px;
+    margin-top: 9px;
 }
 
 .row2 {
@@ -398,7 +398,7 @@ form .row:first-child .floating-label-form-group {
 span.skills {
     color: #fff;
     background: #000000;
-    padding: 2px 8px;
+    padding: 1px 8px;
     margin: -3px -5px;
     line-height: 1.7;
     border-radius: 1px;
@@ -438,7 +438,7 @@ a:focus {
 	text-decoration: none;
 }
 body{
-	font-family: 'Lato', sans-serif;
+	font-family: 'Noto Sans Korean','Lato', sans-serif;
 }
 a {
 	text-decoration:none;
