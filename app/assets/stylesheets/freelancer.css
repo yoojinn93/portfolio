@@ -113,6 +113,12 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
+header .intro-text .do {
+    font-size: 1.0em;
+    font-weight: 300;
+}
+
+
 @media(min-width:768px) {
     header .container {
         padding-top: 100px;
@@ -377,15 +383,26 @@ form .row:first-child .floating-label-form-group {
 }
 
 .intro-text {
-    margin-top: 76px;
+    margin-top: 35px;
 }
 
+.dowhat {
+    margin-top: 5px;
+}
 
 .row2 {
     margin-right: -15px;
     margin-left: 96px;
 }
 
+span.skills {
+    color: #fff;
+    background: #000000;
+    padding: 2px 8px;
+    margin: -3px -5px;
+    line-height: 1.7;
+    border-radius: 1px;
+}
 
 /* skill bar start
 ---------------------------------------------------------------------- */
